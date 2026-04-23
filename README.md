@@ -1,22 +1,27 @@
 ## Hyeonjun Ahn (@_deayzl)
 
 - lucky noob hacker
+- blog at https://deayzl.tistory.com/
 
 ### Affiliation
 
+**The Amazing Digital Orange** *For CTF* (2025 ~ )
+
 **[REDACTED]** (2025.01 ~ 2026.07)
-
-**Dankook University** *B.S. in Cyber Security* (2023.03 ~ )
-
-**Best of the Best (BoB) 12th**  *Vulnerability Analysis Track (Top 30)* (2023.07 ~ 2024.03)
 
 **BoB 12th Project Member** *Linux Kernel Data-Race Vulnerability Detection* (2023.09 ~ 2023.12)
 
-**The Amazing Digital Orange** *For CTF* (2023 ~ )
+**Best of the Best (BoB) 12th**  *Vulnerability Analysis Track (Top 30)* (2023.07 ~ 2024.03)
+
+**Dankook University** *B.S. in Cyber Security* (2023.03 ~ )
 
 ### Competitions (CTF)
 
-<details><summary>expand</summary>
+<details><summary>CTF</summary>
+
+- **2026**
+    - **9th Place** – Dreamhack Invitational 2026
+    - **17th Place Finalist** – CODEGATE 2026 CTF Preliminary *(Team: The Amazing Digital Orange)*
 
 - **2025**
     - **3rd Place** – ASIS CTF Finals *(Team: RubiyaLab)*
@@ -35,7 +40,7 @@
     - **3rd Place** – Dreamhack CTF Season 6 Round #11 (Div1)
     - **8th Place** – CCE (Cyber Conflict Exercise) Finals *(Team: 양파맛 귤)*
     - **6th Place Finalist** – HITCON CTF Quals *(Team: Cold Fusion)*
-    - **9th Place Finalist** – DEFCON CTF 32 Finals *(Team: Cold Fusion)*
+    - **9th Place** – DEFCON CTF 32 Finals *(Team: Cold Fusion)*
 
 - **2023**
     - **6th Place Finalist** – HITCON CTF Quals *(Team: 프로그램털모찌)*
@@ -52,7 +57,10 @@
 
 <details><summary>Chrome</summary>
 
-- 489159859
-- 490642836
+- 489494032
+- [490642836] **High** CVE-2026-5279: Object corruption in V8
+- 492077213
+- 501136000
+- 503801946
 
 </details>
